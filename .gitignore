@@ -31,4 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-.application-test.properties
+application-test.properties
