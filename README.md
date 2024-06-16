@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="img/Badge-Spring.png" alt="Insignia de Alura Latam">
+</p>
+
 # Foro Hub - Desafío de Altura
 
 Este es un proyecto de foro web diseñado para el desafío de Altura. El proyecto permite a los usuarios crear, leer, actualizar y eliminar tópicos, con un enfoque en la seguridad y la validación de datos.
